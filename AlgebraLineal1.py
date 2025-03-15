@@ -9,3 +9,8 @@ b=np.array([1,3,-1,7])
 result_sum = np.add(a,b)
 print(result_sum)
 
+
+
+
+
+
